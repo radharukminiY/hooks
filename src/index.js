@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import HooksComponent from './compnont/hookscomponent';
-//import DisplayComponent from './compnont/dispalycomponent';
+import HooksComponent from './Component/HooksComponent';
+
 
 ReactDOM.render(<HooksComponent/>,
 
